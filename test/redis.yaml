@@ -1,0 +1,6 @@
+apiVersion: myapp.xiaolatiao.cn/v1
+kind: Redis
+metadata:
+  name: myredis
+spec:
+  port: 1111
